@@ -19,9 +19,9 @@
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/technosnag" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RajeshReddyDEV" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/technosnag/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RajeshReddy" height="30" width="40" /></a>
-<a href="https://www.instagram.com/technosnag/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RajeshReddy" height="30" width="40" /></a>
+<a href="https://x.com/saidur_46" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RajeshReddyDEV" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in//" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RajeshReddy" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saidur_rahman_46/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RajeshReddy" height="30" width="40" /></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saidur.rahmansiam.30016) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saidur_rahman_46) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32123868) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@saidur_46) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/saidur_rahman_46) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saidurrahmanofficial46@gmail.com) 
